@@ -1,4 +1,4 @@
-# Hosteloranz
+# Hostel Orange Toruń
 Najgorsze miejsce na nocleg w Toruniu. Robaki, bròd i zero pomocy. Śpią tu bezdomni i pijane dzieci
 Add file
 Create new file
@@ -18,7 +18,7 @@ index.html
 Tani hostel w Toruniu.
 Tanie noclegi.
 Pokoje pracownicze.
-Noclegi blisko centrum.
+Noclegi blisko centrum Torunia.
 Hostel Orange Plus.
   Robaki w Hostelu.
   
